@@ -2246,7 +2246,7 @@ In a function we can pass different data types(number, string, boolean, object, 
 ```js
 // function with one parameter
 function functionName(parm1) {
-  //code goes her
+  //code goes here
 }
 functionName(parm1) // during calling or invoking one argument needed
 
